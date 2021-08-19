@@ -1,1 +1,5 @@
-theme: jekyll-theme-slate
+theme: icarus
+deploy:
+  type: git
+  repo: https://github.com/bytesorg/blog.git
+  branch: blog
