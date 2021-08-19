@@ -1,1 +1,6 @@
-theme: jekyll-theme-slate
+deploy:
+  type: git
+  repo: >-
+    https://silence-code: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@github.com/bytesorg/blog.git
+  branch: main
+theme: icarus
